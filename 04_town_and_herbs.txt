@@ -1,0 +1,7 @@
+TOWN, DAILY LIFE, HERBS
+
+Small medieval fantasy town: medical establishment/ward, market, blacksmith, tavern, stable/barn at the edge of town, homes and central square. Everyday professions can have extraordinary abilities. The blacksmith's smoldering left hand is one example. Clockwork technology is mechanical, not digital.
+
+DAY FIVE MARKET: The healer shops for REAL plants with documented historical medicinal use. The author wants plausible traditional herbal practices that could inspire players to research them, not lectures about clinical studies, and not fictional invented herbs presented as real. Examples to research before scripting: violet in traditional skin-soothing preparations, chamomile in tea, calendula in topical preparations. These are candidates, not locked-in recipes or claims of medical efficacy. No need to present modern medical advice in character dialogue.
+
+Day five also includes picking up the repaired sword from the blacksmith, wrapped in cloth, without immediately identifying the object. The sword is given back after the day-six dragon funeral.

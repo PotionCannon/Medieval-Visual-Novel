@@ -1,0 +1,16 @@
+OPEN QUESTIONS AND UNFINISHED DETAILS
+
+- Working title and names of healer, apprentice, Draconian, dragons, riders, tavernkeeper, blacksmith, town, and tower.
+- Final visual art style, portraits, interface typography and exact contrasting font for thoughts.
+- Precise playable hotspots and choices for each day, without branching the core plot.
+- Details of day-one morning tasks and day-two bedside conversation.
+- Exact day-five herb purchases and historically documented preparations; research before final script.
+- Whether day-four nightmare/flashback choices are playable or primarily cinematic.
+- More specific sequence of day-six burial, heart-crystal retrieval and sword presentation.
+- Dialogue and pacing across the 24-day gap leading to day thirty.
+- Detailed tower conversation, fight choreography, and how to stage the dragon-to-dragon dialogue.
+- Exact timeline of travel to and from tower (absence is a little under two weeks; funeral next day, homecoming three days after funeral).
+- Species name “Draconian” is provisional; user considered changing it but deferred.
+- The medical building type is not finalized (ward/medical facility, perhaps near an inn).
+
+Do not silently promote illustrative dialogue or suggested interactions from planning chats into established canon.

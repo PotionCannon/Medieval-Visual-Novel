@@ -1,0 +1,14 @@
+VISUAL NOVEL PRESENTATION AND INTERACTIONS
+
+FORMAT: Traditional linear point-and-click visual novel, illustrated backgrounds, character portraits, one standard dialogue box, clickable hotspots and menu choices. No free walking, action combat, or large RPG mechanics. Major story beats and ending remain fixed; player decisions affect pacing, optional details, tone and discovery rather than rewriting the author's storyline.
+
+TEXT PRESENTATION — IMPORTANT USER DECISION:
+Spoken dialogue and first-person internal narration both appear in the SAME STANDARD TEXT BOX. Internal thoughts use a DIFFERENT FONT (and potentially subtle typographic styling), not a separate speech bubble or floating overlay. The speaker label may indicate whose thoughts are being read. Internal narration is first person (“I...”), from the current playable POV. Do not use third-person omniscient thought narration.
+
+POV: Primarily healer on days one, two, five, six, and day-thirty preparation; day THREE is PLAYED from the DRACONIAN's perspective. Day four begins with a playable/presented Draconian flashback, then bedside scene. After day-thirty farewell, gameplay shifts to the Draconian for the journey, tower confrontation, and resolution. Specific POV for every noninteractive cutscene can be decided during scripting.
+
+INTERACTION IDEAS (PROPOSALS, NOT LOCKED): click patients and tools to inspect injuries, choose sensible healing steps, select herbs and supplies, investigate sword and clockwork hand, ask optional dialogue questions, notice facial expressions and background clues, choose conversation tone. Incorrect medical choices can prompt a teaching moment rather than a game-over. Tower confrontation can use dialogue and clickable reactions without action combat. Keep the day-three tavern visit from the rider's own playable perspective.
+
+DAY TITLES: “Day One” through “Day Six”, then “30 Days After the Crash.” Fade-to-black transitions where specified. Later journey and return use clear cinematic transitions. End with town-square night scene, credits, and underwater post-credits crystal scene.
+
+ROMANCE: no relationship meter, no forced dating minigame, no branching love interests. Friendship is integral to romantic love. Show love as sacrifice, attentiveness, generosity, loyalty, restraint, and care for people beyond the romantic partner.
